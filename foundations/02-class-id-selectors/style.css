@@ -1,0 +1,28 @@
+.all {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.basic,
+.plus {
+    background-color: pink;
+    color:black;
+}
+
+.basic {
+    font-size: 18px;
+}
+
+.plus {
+    font-size: 30px;
+}
+
+#blue {
+    font-size: 36px;
+    color: blue;
+}
+
+#blackandgreen {
+    color:black;
+    background-color: lightgreen;
+    font-weight: bold;
+}
